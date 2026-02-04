@@ -83,4 +83,4 @@ When we fix a bug in a foundational tool, we aren't just solving a local problem
 To verify the authenticity of my commits and communications:
 
 * **PGP Fingerprint:** `DAC7 3627 D492 6D09 2FEC  8D58 AC2C 6D6A EE8D 538F`
-* **Public Key:** [GitHub](https://github.com/librefos.gpg) or [OpenPGP](https://keys.openpgp.org/search?q=DAC73627D4926D092FEC8D58AC2C6D6AEE8D538F)
+* **Public Key:** [GitHub](https://github.com/librefos.gpg) or [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DAC73627D4926D092FEC8D58AC2C6D6AEE8D538F)
