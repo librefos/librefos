@@ -8,7 +8,7 @@ Seja construindo um backend em Java ou criando scripts de automação em Bash, m
 
 ### Por Que o Open Source Importa
 
-Meu compromisso com o ecossistema Open Source vai além do uso de software livre; trata-se de contribuição e responsabilidade. Acredito que contribuir para projetos "upstream" é a maneira mais eficaz de melhorar o dia a dia de desenvolvedores em todos os lugares.
+Meu compromisso com o ecossistema Open Source vai além do uso de software livre; trata-se de contribuição e responsabilidade. Acredito que contribuir para projetos upstream é a maneira mais eficaz de melhorar o dia a dia de desenvolvedores em todos os lugares.
 
 Quando corrigimos um bug em uma ferramenta fundamental, não estamos apenas resolvendo um problema local, estamos economizando tempo para milhares de colegas ao redor do mundo.
 
